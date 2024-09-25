@@ -1,9 +1,8 @@
 https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278
-ASS 1:
-https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_1.ipynb
-ASS 2:
-https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML%20LAB%202.ipynb
-ASS 3:
-https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_3.ipynb
-ASS 4:
-https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_4.ipynb
+ASS 1:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_1.ipynb
+ASS 2:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML%20LAB%202.ipynb
+ASS 3:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_3.ipynb
+ASS 4:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_4.ipynb
+ASS 5:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_5.
+ASS 6:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_6.ipynb
+ASS 7:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_7.ipynb
