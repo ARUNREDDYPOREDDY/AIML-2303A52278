@@ -6,3 +6,4 @@ ASS 4:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_4.i
 ASS 5:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_5.
 ASS 6:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_6.ipynb
 ASS 7:https://github.com/ARUNREDDYPOREDDY/AIML-2303A52278/blob/main/AIML_LAB_7.ipynb
+ASS 8:https://github.com/2303A52397/AIML-2303A52397/blob/main/AIML_LAB_8.ipynb
